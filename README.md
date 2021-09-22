@@ -1,0 +1,2 @@
+# Probing-CO-Adsorption-on-fcc-Metals
+Computational Computational study about Carbon monoxide absorption on even noble metal (Cu, Ni, Ag, Au) or other metal groups (Pt, Pd, Ir, Th) surfaces. The interest in these metals is their application as catalysts in transformation reactions and organic synthesis and as reactives in Fischer-Tropsch process. All these metals show a cube-shaped crystalline structure centered on the faces (fcc) where the most stable surfaces were used to make the experimental measures that belongs to the lowest Miller rates – (100, 110, 111).
